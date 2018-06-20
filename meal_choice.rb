@@ -29,9 +29,9 @@ end
 
 # call your methods here
 
-breakfast("z-bars")
-lunch("sushi ai")
-dinner("food")
+breakfast("pancakes")
+lunch("peanut butter")
+dinner("broccoli")
 
 # Call your methods without any arguments here
 breakfast
